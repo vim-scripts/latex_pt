@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=959
+
+Replaces LaTeX portuguese codes by the real characters when the user opens a LaTeX source document. When the user saves the document, the special characters are written back in LaTeX code form. Some characters like 'î' and 'ò' don't exist in portuguese but they are handled as well.
+
